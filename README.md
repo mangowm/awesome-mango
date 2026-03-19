@@ -22,7 +22,8 @@ A curated list of community-built tools for the [mango](https://github.com/mango
 Tools for managing window layouts.
 
 * **[DMSMangoWCLayoutManager](https://github.com/omarluq/DMSMangoWCLayoutManager)** — DMS plugin
-* **[mango-layout-switcher](https://github.com/atheeq-rhxn/mango-layout-switcher)** — Noctalia plugin and standalone 
+* **[mango-layout-switcher](https://github.com/atheeq-rhxn/mango-layout-switcher)** — Noctalia plugin and standalone
+* **[wswitch](https://github.com/DreamMaoMao/wswitch)** — Alt+Tab window switcher 
 
 ---
 
@@ -40,6 +41,7 @@ General-purpose tools.
 
 * **[msnap](https://github.com/atheeq-rhxn/msnap)** — Screenshot and screen recording with GUI
 * **[mdisplay](https://github.com/ernestoCruz05/mdisplay)** — Drag-and-drop monitor layout editor
+* **[wshowkeys](https://github.com/DreamMaoMao/wshowkeys)** — Displays keypresses on screen
 
 ---
 
