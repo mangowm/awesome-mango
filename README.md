@@ -4,6 +4,9 @@ A curated list of community-built tools for the [mango](https://github.com/mango
 
 ---
 
+## Status bar
+* **[Mangobar](https://github.com/mangowm/mangobar)**
+
 ## QuickShells
 
 ### Full Desktop Shells
@@ -43,9 +46,8 @@ General-purpose tools.
 * **[mdisplay](https://github.com/ernestoCruz05/mdisplay)** — Drag-and-drop monitor layout editor
 * **[wshowkeys](https://github.com/DreamMaoMao/wshowkeys)** — Displays keypresses on screen
 * **[grimfreeze](https://github.com/DreamMaoMao/grimfreeze)** — Screenshots with screen freeze
-
+* **[mangolsp](https://github.com/ernestoCruz05/mangolsp)** — LSP & Auto completion for mango configuration files
 ---
 
 ## Contributing
-
 Found a tool? Open a PR or create an issue to add it here.
