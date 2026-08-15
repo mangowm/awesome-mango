@@ -42,6 +42,7 @@ General-purpose tools.
 * **[msnap](https://github.com/atheeq-rhxn/msnap)** — Screenshot and screen recording with GUI
 * **[mdisplay](https://github.com/ernestoCruz05/mdisplay)** — Drag-and-drop monitor layout editor
 * **[wshowkeys](https://github.com/DreamMaoMao/wshowkeys)** — Displays keypresses on screen
+* **[grimfreeze](https://github.com/DreamMaoMao/grimfreeze)** — Screenshots with screen freeze
 
 ---
 
