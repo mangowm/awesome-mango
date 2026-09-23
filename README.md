@@ -21,7 +21,7 @@ A curated list of community-built tools for the [mango](https://github.com/mango
 
 Tools for managing window layouts.
 
-* **[DMSMangoWCLayoutManager](https://github.com/omarluq/DMSMangoWCLayoutManager)** — DMS plugin
+* **[DMSMangoWMLayoutManager](https://github.com/omarluq/DMSMangoWMLayoutManager)** — DMS plugin
 * **[mango-layout-switcher](https://github.com/atheeq-rhxn/mango-layout-switcher)** — Noctalia plugin and standalone
 * **[wswitch](https://github.com/DreamMaoMao/wswitch)** — Alt+Tab window switcher 
 
