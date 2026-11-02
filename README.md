@@ -46,6 +46,14 @@ General-purpose tools.
 
 ---
 
+## Scripts
+
+Community repo for bash scripts 
+
+**[awesome-mango-scripts](https://github.com/Venomous27/awesome-mango-scripts)**
+
+---
+
 ## Contributing
 
 Found a tool? Open a PR or create an issue to add it here.
